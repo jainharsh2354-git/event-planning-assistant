@@ -55,7 +55,7 @@ The result is a fully formatted **Markdown report** with an AI quality score, do
 
 The app is deployed live on **Railway** and accessible publicly.
 
-> Visit the app → *(Replace with your Railway URL once deployed)*
+> Visit the app → https://event-planning-assistant-production.up.railway.app/
 
 ---
 
